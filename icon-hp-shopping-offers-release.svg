@@ -1,0 +1,8 @@
+<svg id="icon-offers" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<style><![CDATA[
+#icon-offers-tag {animation: icon-offers-tag__tr 1000ms linear 1 normal forwards}@keyframes icon-offers-tag__tr { 0% {transform: translate(18.414999px,20.62px) rotate(45deg);animation-timing-function: cubic-bezier(0.5,0.5,0.355,1)} 50% {transform: translate(18.414999px,20.62px) rotate(0deg)} 100% {transform: translate(18.414999px,20.62px) rotate(0deg)}}
+]]>
+	.icon-shoppingtools-color{fill:none;stroke:#000000;}
+</style>
+<g id="icon-offers-tag" transform="translate(18.414999,20.62) rotate(45)"><g transform="translate(-18.414999,-20.619999)"><circle r="2.92" transform="translate(10.12 20.62)" class="icon-shoppingtools-color"/><polygon points="8.61,13.36 35.6,13.36 35.6,27.88 8.61,27.88 1.23,20.57 8.61,13.36" class="icon-shoppingtools-color"/></g></g></svg>
+ 

@@ -1,0 +1,9 @@
+<svg id="icon-dealer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<style><![CDATA[
+#icon-dealer-pin {animation: icon-dealer-pin__to 1000ms linear 1 normal forwards}@keyframes icon-dealer-pin__to { 0% {transform: translate(19.899999px,16.599999px);animation-timing-function: cubic-bezier(0.14,0.6,0.355,1)} 100% {transform: translate(19.899999px,22.421205px)}}
+]]>
+	
+	.icon-shoppingtools-color{stroke:#000000;fill:none;}
+	.icon-round{stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g id="icon-dealer-pin" transform="translate(19.899999,16.599999)"><g transform="translate(-19.899999,-16.599999)"><circle r="4.4" transform="translate(20 11.9)" class="icon-shoppingtools-color"/><path d="M11.2,11.9c0-4.8,3.9-8.7,8.7-8.7s8.7,3.9,8.7,8.7-8.6,18.1-8.6,18.1-8.8-13.3-8.8-18.1Z" class="icon-shoppingtools-color icon-round"/></g></g></svg>
