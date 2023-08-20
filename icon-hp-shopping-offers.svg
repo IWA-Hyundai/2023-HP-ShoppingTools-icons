@@ -1,9 +1,11 @@
-<svg id="icon-nav-offers" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" aria-label="hidden">
+<svg id="icon-nav-offers"  animation-id="icon-offers-tag" animation-id="icon-offers-tag" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" aria-label="hidden">
   <defs>
     <style>
         .icon-shoppingtools-color{fill:none;stroke:#000000;}
     </style>
   </defs>
-  <circle class="icon-shoppingtools-color" cx="10.12" cy="20.62" r="2.92"/>
-  <polygon class="icon-shoppingtools-color" points="8.61 13.36 35.6 13.36 35.6 27.88 8.61 27.88 1.23 20.57 8.61 13.36"/>
+  <g id="icon-offers-tag">
+	  <circle class="icon-shoppingtools-color" cx="10.12" cy="20.62" r="2.92"/>
+	  <polygon class="icon-shoppingtools-color" points="8.61 13.36 35.6 13.36 35.6 27.88 8.61 27.88 1.23 20.57 8.61 13.36"/>
+  </g>
 </svg>

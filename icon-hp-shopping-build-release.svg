@@ -1,4 +1,4 @@
-<svg id="icon-build" data-animation-id="icon-build-pencil-rotate" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<svg id="icon-build" animation-id="icon-build-pencil-rotate" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 40 40" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
 <style><![CDATA[
 #icon-build-pencil {animation: icon-build-pencil__to 400ms linear 1 normal forwards}@keyframes icon-build-pencil__to { 0% {offset-distance: 0%;animation-timing-function: cubic-bezier(0.32,0.52,0.36,1)} 100% {offset-distance: 100%}} #icon-build-pencil-rotate {animation: icon-build-pencil-rotate__tr 400ms linear 1 normal forwards}@keyframes icon-build-pencil-rotate__tr { 0% {transform: rotate(-16.36deg);animation-timing-function: cubic-bezier(0.32,0.52,0.36,1)} 100% {transform: rotate(0deg)}}
 ]]>
